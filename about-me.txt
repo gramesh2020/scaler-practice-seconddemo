@@ -1,1 +1,7 @@
 my name is ramesh.
+commands learned till now
+git init
+git status
+git add
+git commit
+git log
