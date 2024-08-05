@@ -6,5 +6,7 @@ git add
 git commit
 git log
 git diff
+git branch
+git checkout
 
 I am writing this line in main branch.
